@@ -45,8 +45,8 @@ are shown.
 An upcomming call would switch the screen to the command line and you'll get
 something like:
 
-  > INCOMMING CALL FROM chmeee
-  answer? [Y/n]
+    > INCOMMING CALL FROM chmeee
+    answer? [Y/n]
 
 ### Keyboard
 
@@ -77,5 +77,7 @@ Any text-based game:
 I wish the console phone got implemented in ruby. That way you can always drop
 to 'irb' from the command-line interface and do some ruby magic in your phone.
 
-If sometimes I finish my degree project I'll implement one basic functionality
-just for fun :). 
+If I get to finish (one of these days) my degree project I'll implement one
+basic functionality just for fun :). 
+
+Feel free to fork and update this readme or contribute with sample code.
